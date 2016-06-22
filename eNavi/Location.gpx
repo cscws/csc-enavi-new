@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="Xcode"> 
+
+    <wpt lat="39.900560" lon="116.400545">
+         <name>China Beijing</name>
+	</wpt>
+    
+    <wpt lat="39.900660" lon="116.400545">
+        <name>China Beijing1</name>
+	</wpt>
+    
+    <wpt lat="39.900760" lon="116.400545">
+        <name>China Beijing2</name>
+	</wpt>
+    
+    <wpt lat="39.900860" lon="116.400545">
+        <name>China Beijing3</name>
+	</wpt>
+    <wpt lat="39.900960" lon="116.400545">
+        <name>China Beijing4</name>
+	</wpt>
+</gpx>

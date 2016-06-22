@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1C46C6D161096DDCCC03CD68DCDD0CC9405984DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6542E3CF9D8FBF52D6DB8308BD2072225AE0EE65" : 0,
+    "1C46C6D161096DDCCC03CD68DCDD0CC9405984DE" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BCFF0E52-A5CC-4A0C-8AB9-B379EEB7E05D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6542E3CF9D8FBF52D6DB8308BD2072225AE0EE65" : "",
+    "1C46C6D161096DDCCC03CD68DCDD0CC9405984DE" : "eNavi\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "eNavi",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "eNavi.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/cscwyt\/eNavi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1C46C6D161096DDCCC03CD68DCDD0CC9405984DE"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/cscws\/csc-enavi-new.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6542E3CF9D8FBF52D6DB8308BD2072225AE0EE65"
+    }
+  ]
+}
